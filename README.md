@@ -40,5 +40,6 @@ SAMPLE OUTPUTS:
 <img width="515" height="340" alt="image" src="https://github.com/user-attachments/assets/c72fa749-65c2-47d5-8f55-d1ec6fc10865" />
 <img width="515" height="240" alt="image" src="https://github.com/user-attachments/assets/ec7fdeea-15c4-486c-8728-9686f4145f99" />
 
+
 CONCLUSION:
 The SEO tool effectively leverages Trie, Bloom Filter, and HashMap data structures to enhance keyword search, autocorrection, and result retrieval. This combination ensures fast, scalable, and accurate processing while minimizing unnecessary API calls. The approach improves user experience and provides a solid foundation for efficient search engine operations.
